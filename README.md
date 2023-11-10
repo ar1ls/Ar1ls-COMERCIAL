@@ -17,5 +17,5 @@
 7. **[МОД/СЕРВЕР] AdditionalsCapacitors**, улучшенные capacitor'ы для EnderIO.
  
 	![alt text](screenhots/enderio.png)
-8.  **[МОД/КЛИЕНТ] Loot Beams**, порт мода с 1.16.5, показывает лучи, nbt, имена над предметами ![alt text](screenhots/2023-11-11_00.57.43.png)
+8.  **[МОД/КЛИЕНТ] Loot Beams**, порт мода с 1.16.5, показывает лучи, nbt, имена над предметами ![alt text](screenhots/2023-11-11_00.57.4.png)
 9. **[ПЛАГИН] DupeLog**. трекер предметов и взаимодействий с ними 
