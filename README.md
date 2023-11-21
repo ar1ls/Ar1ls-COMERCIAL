@@ -15,7 +15,7 @@
 	![alt text](screenhots/ic2addon2.png) 																		![alt text](screenhots/ic2addon.png) 
 6. **[МОД/СЕРВЕР] AvaritiaAddon**, улучшенные сборщики нейтрония. ![alt text](screenhots/avaritiaaddon2.png) ![alt text](screenhots/avaritiaaddon.png)
 7. **[МОД/СЕРВЕР] BotaniaAddon**, реализованно: бассейны, распространители, искры, кольца, броня и др. ![alt text](screenhots/image.png)
-8. **[МОД/СЕРВЕР] AdditionalsCapacitors**, улучшенные capacitor'ы для EnderIO.
+8. **[МОД/СЕРВЕР] AdditionalsCapacitors**, улучшенные capacitor'ы для EnderIO, возможность добовлять новые, настраивать для большинства механизмов через конфиг-файл.
  
 	![alt text](screenhots/enderio.png)
 9. **[ПЛАГИН] DupeLog**. трекер предметов и взаимодействий с ними 
