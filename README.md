@@ -8,7 +8,8 @@
 # [ПРИМЕР РАБОТ]()
 1. **[МОД/КЛИЕНТ] Loot Beams**, порт мода с 1.16.5, добавляет отображение лучей, nbt, имён над предметами: ![alt text](screenshots/2023-11-11_00.57.4.png)
 2. **[МОД/СЕРВЕР] ArtMod**. Отображение артов, картинок и т.п. ![alt text](screenshots/art1.png)  ![alt text](screenshots/art2.png) 
-3. **[ГУИ/КЛИЕНТ+ПЛАГИН] InfoGUI**. Отображение статистики, приватов, кастомный таб, настройки положения, размера и др. ![alt text](screenshots/infogui1.png) ![alt text](screenshots/infogui2.png) ![alt text](screenshots/2023-10-30_02.28.33.png)
+3. **[ГУИ/КЛИЕНТ+ПЛАГИН] InfoGUI**. Отображение статистики, приватов, кастомный таб, настройки положения, размера и др.     
+![alt text](screenshots/infogui1.png) ![alt text](screenshots/infogui2.png) ![alt text](screenshots/2023-10-30_02.28.33.png)
 4. **[ГУИ/КЛИЕНТ] CustomMenu**. Замена стандартному меню ![alt text](screenshots/menu.png)
 5. **[МОД/СЕРВЕР] IC2Addon**. Мод-аддон, реализованно: панельки, молекулярный преобразователь, автоспавнера и др.
  
